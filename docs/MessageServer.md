@@ -19,7 +19,7 @@ The result will be returned as a JSON object containing the attributes:
 | ------------ | ------ | ---------------------------------------------------------- |
 | user_id      | string | A unique alphanumeric ID that can be used to send messages |
 
-[Code example](./examples/MessageServerRegistration.md)
+[Code example](../examples/MessageServerRegistration.md)
 
 
 
