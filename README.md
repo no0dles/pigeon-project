@@ -2,7 +2,7 @@
 ## Project summary
 The idea of project Pigeon is to develop an open and secure message protocol. One of the main objectives is to provide end to end encryption on any communication in a easy way to use for everyone. 
 
-##Objectives
+## Objectives
 
 **End to end encryption** 
 Any communication is encrypted with your personal key which never leaves the users device.
@@ -35,11 +35,20 @@ Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie co
 
 ## Docs
 
-* [Message Server](./docs/MessageServer.md)
-* [Registry Server](./docs/RegistryServer.md)
-* [Social Server](./docs/SocialServer.md)
+**Message Server:**
+Read about more the concept of the message server and how all messages are handled in pigeon [here](./docs/MessageServer.md).
 
-## Collaborator(s)
+--
+
+**Directory Server:**
+Read more about the conecpt of the directory server and how you exchange your contact information with others [here](./docs/RegistryServer.md).
+
+--
+
+**Chat Server:** 
+Read more about the conecpt of the chat server and how a chat works on top of the message server [here](./docs/ChatServer.md).
+
+## Collaborators
 no0dles
 
 ## License
